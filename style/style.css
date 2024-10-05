@@ -12,7 +12,7 @@ body {
 
 @font-face {
     font-family: 'Twilight';
-    src: url(./fonts/Twilight/twilight.ttf);
+    src: url(/twilight.ttf);
 }
 
 .container {
